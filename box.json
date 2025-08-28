@@ -770,6 +770,20 @@
 			]
 		},
 		{
+			"key": "电影天堂",
+			"name": "电影天堂",
+			"type": 1,
+			"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"categories": [
+				"国产动漫",
+				"日韩动漫",
+				"连续剧"
+			]
+		},
+		{
 			"key": "6",
 			"name": "== 6 =="
 		},
@@ -1411,6 +1425,16 @@
 			"name": "Mursor",
 			"type": "0",
 			"url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u"
+		},
+		{
+			"name": "tv_jp",
+			"type": "0",
+			"url": "https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u"
+		},
+		{
+			"name": "tv_jp_clean",
+			"type": "0",
+			"url": "https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp_clean.m3u"
 		},
 		{
 			"name": "平台直播",
